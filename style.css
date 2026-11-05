@@ -183,8 +183,8 @@ width: 90%;
 max-width: 1200px;
 margin: 2rem auto 5rem;
 height: 500px;
-background: #dcd6cd 
-  url("../imagens/imagem-estrela.jpeg") 
+background: #dcd6cd
+  url("imagens/imagem-estrela.jpeg")
   center/contain repeat; /* Mudou de cover para contain */
 border-radius: 8px;
 position: relative;
@@ -218,7 +218,7 @@ position: relative;
 
 .feature-image {
   height: 450px;
-  background: url("../imagens/foto-day.png") center/cover no-repeat;
+  background: url("imagens/foto-day.png") center/cover no-repeat;
   border-radius: 8px;
 }
 
@@ -292,7 +292,7 @@ position: relative;
 
 .day-image {
   height: 500px;
-  background: url("../imagens/foto-day-capa.jpeg") center/cover no-repeat;
+  background: url("imagens/foto-day-capa.jpeg") center/cover no-repeat;
   border-radius: 8px;
 }
 
@@ -351,7 +351,7 @@ position: relative;
 
 .equipe-imagem {
   height: 450px;
-  background: url("../imagens/equipe-foto.png") center/contain no-repeat;
+  background: url("imagens/equipe-foto.png") center/contain no-repeat;
   border-radius: 8px;
 }
 
