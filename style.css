@@ -179,15 +179,13 @@ nav a:hover {
 
 /* Galeria / Imagem Principal Mock */
 .hero-image-container {
-width: 90%;
-max-width: 1200px;
-margin: 2rem auto 5rem;
-height: 500px;
-background: #dcd6cd
-  url("imagens/imagem-estrela.jpeg")
-  center/contain repeat; /* Mudou de cover para contain */
-border-radius: 8px;
-position: relative;
+  width: 90%;
+  max-width: 1200px;
+  margin: 2rem auto 5rem;
+  height: 500px;
+  background: #dcd6cd url("imagens/imagem-estrela.jpeg") center/cover no-repeat;
+  border-radius: 8px;
+  position: relative;
 }
 
 /* Seção Cristo Redentor */
