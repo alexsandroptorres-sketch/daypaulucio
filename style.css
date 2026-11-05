@@ -183,7 +183,7 @@ nav a:hover {
   max-width: 1200px;
   margin: 2rem auto 5rem;
   height: 500px;
-  background: #dcd6cd url("imagens/imagem-estrela.jpeg") center/cover no-repeat;
+  background: #dcd6cd url("imagens/imagem-estrela.jpeg") center/cover repeat;
   border-radius: 8px;
   position: relative;
 }
